@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "connect-redis": "^7.1.1",
+    "redis": "^4.6.15"
+  },
+  "name": "redisjson-express-session-store",
+  "version": "1.0.0",
+  "description": "A express-session store for RedisJSON integration, for better data manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobthefishmonger/RedisJSON-Express-Session-Store.git"
+  },
+  "keywords": [
+    "ExpressJS",
+    "Express",
+    "Express-session",
+    "Redis",
+    "RedisJSON"
+  ],
+  "author": "bobthefishmonger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobthefishmonger/RedisJSON-Express-Session-Store/issues"
+  },
+  "homepage": "https://github.com/bobthefishmonger/RedisJSON-Express-Session-Store#readme"
+}
